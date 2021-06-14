@@ -2,7 +2,7 @@
 <html>
 <body>
 <hr />
-<h1 style="color: purple;" align="center"> Sejam bem vindos ao meu Github! </h1>
+<h1 align="center"> Sejam bem vindos ao meu Github! </h1>
 <hr />
 <p align="left" >
 Sou casada e tenho dois filhos.<br/>
