@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
-<title>Portifólio Github</title>
-<meta charset="utf-8">
-
 <h1 align="center"> Sejam bem vindos ao meu Github! </h1>
-<hr />
+<hr /> 
+  
 <p align="left" >
 Sou casada e tenho dois filhos.<br/>
 Moro em Mário Campos, região metropolitana de Belo Horizonte-MG.<br/><br/>
