@@ -1,5 +1,5 @@
 <h1 align="center"> Sejam bem vindos! </h1>
-
+<hr />
 Me chamo **Elaine Rodrigues dos Santos**, tenho 33 anos, sou casada e tenho dois filhos.</b>
 
 <p align="left" >
