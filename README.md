@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Portifólio Github</title>
+<meta charset="utf-8">
+</head>
+<body>
+<h2>Sejam bem vindos ao meu Github! </h2>
+<ul>
 <h1 align="center"> Sejam bem vindos ao meu Github! </h1>
 <hr />
 <p align="left" >
@@ -9,5 +18,8 @@ Atualmente curso Engenharia de Computação no CEFET-MG e estou me capacitando p
 
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623688364333.png" width="400px" />
+</ul>
+</body>
+</html>
 
 
