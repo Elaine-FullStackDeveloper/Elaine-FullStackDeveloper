@@ -7,5 +7,5 @@ Sou formada em Tecnologia em Redes de Computadores pela Faculdade Estácio de S�
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623688364333.png" width="400px" />
 
-- 👩‍💻 Estou me capacitando para me tornar uma Desenvolvedora Full-Stack;
+- 👩‍💻 Estou me capacitando para me tornar uma Desenvolvedora Fullstack;
 
