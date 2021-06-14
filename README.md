@@ -4,8 +4,9 @@ Me chamo **Elaine Rodrigues dos Santos**, tenho 33 anos, sou casada e tenho dois
 
 <p align="left" >
 Moro em Mário Campos região metropolitana de Belo Horizonte/MG-BR.<br />
-Sou formada em Tecnologia em Redes de Computadores e atualmente curso Engenharia de Computação no CEFET-MG.<br/>
-Estou me capacitando para me tornar uma Desenvolvedora Full-Stack através de cur<p>csos online e bootcamps.<br/>
+Sou formada em Tecnologia em Redes de Computadores pela Faculdade Estácio de Sá.<br/>
+Atualmente curso Engenharia de Computação no CEFET-MG.<br/>
+Estou me capacitando para me tornar uma Desenvolvedora Full-Stack através de cursos online e bootcamps.<br/>
 </p>
 
 
