@@ -1,8 +1,9 @@
 <h1 align="center"> Sejam bem vindos ao meu Github! </h1>
 <hr />
 <p align="left" >
-Sou casada e tenho dois filhos.Amo muito minha família!<\b>
-Moro em Mário Campos, região metropolitana de Belo Horizonte-MG.Me formei em Tecnologia em Redes de Computadores pela Faculdade Estácio de Sá-BH em 2010, e trabalhei na área de suporte técnico de TI por um bom tempo. Atualmente curso Engenharia de Computação no CEFET-MG e estou me capacitando para me tornar uma Desenvolvedora Fullstack.
+Sou casada e tenho dois filhos.Amo muito minha família!<br/>
+Moro em Mário Campos, região metropolitana de Belo Horizonte-MG.Me formei em Tecnologia em Redes de Computadores pela Faculdade Estácio de Sá-BH em 2010, e trabalhei na área de suporte técnico de TI por um bom tempo.<br/> 
+Atualmente curso Engenharia de Computação no CEFET-MG e estou me capacitando para me tornar uma Desenvolvedora Fullstack.
 </p>
 
 
