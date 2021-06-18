@@ -11,11 +11,10 @@ Me formei em Tecnologia em Redes de Computadores pela Faculdade Estácio de Sá-
 Atualmente curso Engenharia de Computação no CEFET-MG e estou me capacitando para me tornar uma Desenvolvedora Fullstack.
 </p>
  
-Tenho estudado diariamente para cumprir meus objetivos, tenho aprendido muito!!!
-
-Habilidades: HTML, CSS, JavaScript.
+<p align="left" Tenho estudado diariamente para cumprir meus objetivos, tenho aprendido muito!!! <br/>
+Habilidades: HTML, CSS, JavaScript.<br/>
 Ferramentas de Desenvolvimento: VSCode,GitHub. 
-
+</p>
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623688364333.png" width="400px" />
 </body>
 </html>
