@@ -10,11 +10,10 @@ Moro em Mário Campos, região metropolitana de Belo Horizonte-MG.<br/><br/>
 Me formei em Tecnologia em Redes de Computadores pela Faculdade Estácio de Sá-BH em 2010, e trabalhei na área de suporte técnico de TI por um bom tempo.<br/> <br/>
 Atualmente curso Engenharia de Computação no CEFET-MG e estou me capacitando para me tornar uma Desenvolvedora Fullstack.
 </p>
- 
+Tenho estudado diariamente para cumprir meus objetivos, tenho aprendido muito!!! 
 <p align="left"> 
-Tenho estudado diariamente para cumprir meus objetivos, tenho aprendido muito!!! <br/>
 Habilidades: HTML, CSS, JavaScript.<br/>
-Ferramentas de Desenvolvimento: VSCode,GitHub. 
+Ferramentas de Desenvolvimento: VSCode, GitHub. 
 </p>
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623688364333.png" width="400px" />
 </body>
