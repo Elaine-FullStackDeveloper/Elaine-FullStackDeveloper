@@ -12,7 +12,9 @@ Atualmente curso Engenharia de Computação no CEFET-MG e estou me capacitando p
 </p>
  
 Tenho estudado diariamente para cumprir meus objetivos, tenho aprendido muito!!!
- 
+
+Habilidades: HTML, CSS, JavaScript.
+Ferramentas de Desenvolvimento: VSCode,GitHub. 
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623688364333.png" width="400px" />
 </body>
