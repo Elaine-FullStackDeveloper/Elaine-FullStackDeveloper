@@ -11,7 +11,8 @@ Me formei em Tecnologia em Redes de Computadores pela Faculdade Estácio de Sá-
 Atualmente curso Engenharia de Computação no CEFET-MG e estou me capacitando para me tornar uma Desenvolvedora Fullstack.
 </p>
  
-<p align="left" Tenho estudado diariamente para cumprir meus objetivos, tenho aprendido muito!!! <br/>
+<p align="left"> 
+Tenho estudado diariamente para cumprir meus objetivos, tenho aprendido muito!!! <br/>
 Habilidades: HTML, CSS, JavaScript.<br/>
 Ferramentas de Desenvolvimento: VSCode,GitHub. 
 </p>
