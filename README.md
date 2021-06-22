@@ -14,6 +14,7 @@ Tenho estudado diariamente para cumprir meus objetivos, tenho aprendido muito!!!
 <p align="left"> 
 Habilidades: HTML, CSS, JavaScript.<br/>
 Ferramentas de Desenvolvimento: VSCode, GitHub. 
+Soft Skills: Sou comprometida, cooperativa, disciplinada, pontual e organizada.
 </p>
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623688364333.png" width="400px" />
 </body>
