@@ -12,7 +12,7 @@ Atualmente curso Engenharia de Computação no CEFET-MG e estou me capacitando p
 </p>
 Tenho estudado diariamente para cumprir meus objetivos, tenho aprendido muito!!! 
 <p align="left"> 
-Habilidades: HTML, CSS, JavaScript.<br/>
+Habilidades: HTML5, CSS3, Bootstrap, JavaScript.<br/>
 Ferramentas de Desenvolvimento: VSCode, GitHub. <br/>
 Soft Skills: Sou comprometida, cooperativa, disciplinada, pontual e organizada.<br/>
 </p>
