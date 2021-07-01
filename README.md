@@ -11,7 +11,7 @@ Me formei em Tecnologia em Redes de Computadores pela Faculdade Estácio de Sá-
 Atualmente curso Engenharia de Computação no CEFET-MG e estou me capacitando para me tornar uma Desenvolvedora Fullstack.
 </p>
 Tenho estudado diariamente para cumprir meus objetivos, tenho aprendido muito!!! <br/>
-Utilizo a plataforma da Digital Innovation One para fazer bootcamps na área de programação. 
+Utilizo a plataforma da Digital Innovation One para fazer bootcamps na área de programação.  <br/> <br/>
 <p align="left"> 
 <strong>Habilidades: </strong> HTML5, CSS3, Bootstrap, JavaScript.<br/>
 <strong>Ferramentas </strong> de Desenvolvimento: VSCode, GitHub. <br/>
