@@ -13,12 +13,13 @@ Atualmente curso Engenharia de Computação no CEFET-MG e estou me capacitando p
 Tenho estudado diariamente para cumprir meus objetivos, tenho aprendido muito!!! <br/>
 Utilizo a plataforma da Digital Innovation One para fazer bootcamps na área de programação.  <br/> <br/>
 <p align="left"> 
-<strong>Habilidades: </strong> HTML5, CSS3, Bootstrap, JavaScript.<br/>
-<strong>Ferramentas </strong> de Desenvolvimento: VSCode, GitHub. <br/>
+<strong>Habilidades Front-End: </strong> HTML5, CSS3, Bootstrap, JavaScript.<br/>
+<strong>Linguagens: </strong> C. C++, C#, Java, Python. <br/>
+<strong>Ferramentas de Desenvolvimento: </strong> VSCode, GitHub. <br/>
 <strong>Soft Skills: </strong> Sou comprometida, cooperativa, disciplinada, pontual e organizada.<br/>
 </p>
 Acesse meu Portfólio: https://elaine-fullstackdeveloper.github.io/index.html
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1623688364333.png" width="400px" />
+<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontentt.com/my-octocat-1623688364333.png" width="400px" />
 </body>
 </html>
 
