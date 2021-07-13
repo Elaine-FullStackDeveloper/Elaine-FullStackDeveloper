@@ -3,7 +3,6 @@
 <body>
 <hr />
 <h1 align="center"> Sejam bem vindos ao meu Github! </h1>
-  <img align="right"src="https://octocat-generator-assets.githubusercontentt.com/my-octocat-1623688364333.png" width="100px" />
 <hr />
 <p align="left" >
 Sou casada e tenho dois filhos.<br/>
@@ -13,6 +12,7 @@ Atualmente curso Engenharia de Computação no CEFET-MG e estou me capacitando p
 </p>
 Tenho estudado diariamente para cumprir meus objetivos, tenho aprendido muito!!! <br/>
 Utilizo a plataforma da Digital Innovation One para fazer bootcamps na área de programação.  <br/> <br/>
+<hr />
 <p align="left"> 
 <strong>Habilidades Front-End(Cohecimento básico a intermediário): </strong> HTML5, CSS3, Bootstrap, JavaScript.<br/>
 <strong>Linguagens (Cohecimento básico): </strong> C, C++, C#, Java, Python. <br/>
