@@ -3,6 +3,7 @@
 <body>
 <hr />
 <h1 align="center"> Sejam bem vindos ao meu Github! </h1>
+  <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontentt.com/my-octocat-1623688364333.png" width="100px" />
 <hr />
 <p align="left" >
 Sou casada e tenho dois filhos.<br/>
@@ -18,8 +19,7 @@ Utilizo a plataforma da Digital Innovation One para fazer bootcamps na área de 
 <strong>Ferramentas de Desenvolvimento: </strong> VSCode, GitHub. <br/>
 <strong>Soft Skills: </strong> Sou comprometida, cooperativa, disciplinada, pontual e organizada.<br/>
 </p>
-<a>Acesse meu Portfólio: https://elaine-fullstackdeveloper.github.io/index.html</a>
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontentt.com/my-octocat-1623688364333.png" width="400px" />
+Acesse meu Portfólio: https://elaine-fullstackdeveloper.github.io/index.html
 </body>
 </html>
 
