@@ -18,8 +18,7 @@ Utilizo a plataforma da Digital Innovation One para fazer bootcamps na área de 
 <strong>Ferramentas de Desenvolvimento: </strong> VSCode, GitHub. <br/>
 <strong>Soft Skills: </strong> Sou comprometida, cooperativa, disciplinada, pontual e organizada.<br/>
 </p>
-Acesse meu Portfólio: https://elaine-fullstackdeveloper.github.io/index.html
-  
+<a>Acesse meu Portfólio: https://elaine-fullstackdeveloper.github.io/index.html</a>
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontentt.com/my-octocat-1623688364333.png" width="400px" />
 </body>
 </html>
