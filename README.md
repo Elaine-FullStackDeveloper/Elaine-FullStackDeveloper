@@ -3,7 +3,7 @@
 <body>
 <hr />
 <h1 align="center"> Sejam bem vindos ao meu Github! </h1>
-  <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontentt.com/my-octocat-1623688364333.png" width="100px" />
+  <img align="right"src="https://octocat-generator-assets.githubusercontentt.com/my-octocat-1623688364333.png" width="100px" />
 <hr />
 <p align="left" >
 Sou casada e tenho dois filhos.<br/>
