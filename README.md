@@ -25,8 +25,8 @@ Utilizo a plataforma da Digital Innovation One para fazer bootcamps na área de 
                         <hr/>
                         <p align="center">
                          Sou comprometida, cooperativa, disciplinada, pontual e organizada.<br/><br/>
+                         Acesse meu Portfólio: https://elaine-fullstackdeveloper.github.io/index.html
                         </p>
-Acesse meu Portfólio: https://elaine-fullstackdeveloper.github.io/index.html
 </body>
 </html>
 
