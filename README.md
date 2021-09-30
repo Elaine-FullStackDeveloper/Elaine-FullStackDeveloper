@@ -8,7 +8,7 @@
 Sou evangélica, casada e tenho dois filhos.<br/>
 Moro em Mário Campos, região metropolitana de Belo Horizonte-MG.<br/><br/>
 Me formei em Tecnologia em Redes de Computadores pela Faculdade Estácio de Sá-BH em 2010, e trabalhei na área de suporte técnico de TI por um bom tempo.<br/> <br/>
-Atualmente curso Engenharia de Computação no CEFET-MG e estou me capacitando para me tornar uma Desenvolvedora Fullstack.
+Curso Engenharia de Computação no CEFET-MG e estou me capacitando para me tornar uma Desenvolvedora Fullstack.
 </p>
 Tenho estudado diariamente para cumprir meus objetivos, tenho aprendido muito!!! <br/>
 Utilizo a plataforma da Digital Innovation One para fazer bootcamps na área de programação.  <br/> 
