@@ -19,12 +19,13 @@ Utilizo a plataforma da Digital Innovation One para fazer bootcamps na área de 
                             <strong>Habilidades Front-End (Básico a Intermediário): </strong> HTML5, CSS3, Bootstrap, JavaScript.<br/>
                             <strong>Linguagens (Básico): </strong> C, C++, C#, Java, Python. <br/>
                             <strong>Ferramentas de Desenvolvimento (Básico a Intermediário): </strong> VSCode, GitHub. <br/>
+                            <strong>Metodologias Ageis:(Conhecimento Teórico): </strong> Scrum, Kanban,  XP, Spotify, SAFe. <br/>
                         </p>
                         <hr/>
                         <p align="center"><strong>Soft Skills</strong></p> 
                         <hr/>
                         <p align="center">
-                         Sou comprometida, cooperativa, disciplinada, pontual e organizada.<br/><br/>
+                         Sou comprometida, cooperativa, focada, pontual, ética, organizada, divertida, gosto de inovar e sou apaixonada por tecnologia.<br/><br/>
                          Acesse meu Portfólio: https://elaine-fullstackdeveloper.github.io/index.html
                         </p>
 </body>
