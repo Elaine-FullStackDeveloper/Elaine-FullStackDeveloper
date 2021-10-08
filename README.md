@@ -10,9 +10,8 @@ Moro em Mário Campos, região metropolitana de Belo Horizonte-MG.<br/><br/>
 Me formei em Tecnologia em Redes de Computadores pela Faculdade Estácio de Sá-BH em 2010, e trabalhei na área de suporte técnico de TI por um bom tempo.<br/> <br/>
 Curso Engenharia de Computação no CEFET-MG e estou me capacitando para me tornar uma Desenvolvedora Fullstack.
 </p>
-Tenho estudado diariamente para cumprir meus objetivos, tenho aprendido muito!!! <br/>
-Utilizo a plataforma da Digital Innovation One para fazer bootcamps na área de programação.  <br/> 
-Atualmente estou estudando para a C&A Fashion Devs, pela Gama Academy, formação para Dev Full Stack Júnior. <br/><br/>
+Tenho estudado diariamente para cumprir meus objetivos, tenho aprendido muito!!! <br/><br/>
+Utilizo a plataforma da Digital Innovation One para fazer bootcamps na área de programação e atualmente estou estudando para a C&A Fashion Devs, pela Gama Academy, formação para Dev FullStack Júnior. <br/><br/>
 <hr/>
                         <p align="center"><strong>Hards Skills</strong></p> 
                         <hr/>
