@@ -25,7 +25,7 @@ Utilizo a plataforma da Digital Innovation One para fazer bootcamps na área de 
                         <p align="center"><strong>Soft Skills</strong></p> 
                         <hr/>
                         <p align="center">
-                         Sou comprometida, cooperativa, focada, pontual, ética, organizada, divertida, gosto de inovar e sou apaixonada por tecnologia.<br/><br/>
+                         Sou comprometida, cooperativa, focada, pontual, ética, organizada, divertida, gosto de inovar e apaixonada por tecnologia.<br/><br/>
                          Acesse meu Portfólio: https://elaine-fullstackdeveloper.github.io/index.html
                         </p>
 </body>
