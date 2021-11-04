@@ -17,7 +17,8 @@ Cursei alguns bootcamps pela Digital Innovation One e partcipei da C&A Fashion D
                         <p align="left">
                             <strong>Habilidades Front-End (Intermediário): </strong> HTML5, CSS3, Bootstrap, JavaScript;<br/>
                             <strong>Linguagens (Básico): </strong> C, C++, C#, Java, Python;<br/>
-                            <strong>Tecnologia .NET: </strong> Frameworks: Asp.NET Core | Entity Framework Core; <br/>
+                            <strong>Tecnologia .NET (ASP .NET API | ASP .NET MVC): </strong> <br/>
+                            Frameworks: Asp.NET Core | Entity Framework Core; <br/>
                             <strong>Ferramentas de Desenvolvimento (Básico a Intermediário): </strong> VSCode, GitHub; <br/>
                             <strong>Metodologias Ageis:(Conhecimento Teórico): </strong> Scrum, Kanban.<br/>
                         </p>
