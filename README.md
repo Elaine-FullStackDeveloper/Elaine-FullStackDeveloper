@@ -20,7 +20,7 @@ Cursei alguns bootcamps pela Digital Innovation One e partcipei da C&A Fashion D
                             <strong>Tecnologia .NET:</strong> ASP .NET API | ASP .NET MVC;<br/>
                             <strong>Frameworks:</strong> Asp.NET Core | Entity Framework Core; <br/>
                             <strong>Ferramentas de Desenvolvimento(Intermediário): </strong> VSCode, GitHub; <br/>
-                            <strong>Metodologias Ageis:(Conhecimento Teórico): </strong> Scrum, Kanban.<br/>
+                            <strong>Metodologias Ageis(Conhecimento Teórico): </strong> Scrum, Kanban.<br/>
                         </p>
                         <hr/>
                         <p align="center"><strong>Soft Skills</strong></p> 
