@@ -10,8 +10,8 @@ Moro em Mário Campos, região metropolitana de Belo Horizonte-MG.<br/><br/>
 Me formei em Tecnologia em Redes de Computadores pela Faculdade Estácio de Sá-BH em 2010, e trabalhei na área de suporte técnico de TI por um bom tempo.<br/> <br/>
 Curso Engenharia de Computação no CEFET-MG e estou me capacitando para me tornar uma Desenvolvedora Fullstack.
 </p>
-Cursei alguns bootcamps pela Digital Innovation One e partcipei da C&A Fashion Devs, pela Gama Academy, formação para Dev FullStack Júnior (.NET | C#). <br/
-Atualmente atuo como Analista de Software Junior na C&A Modas- Brasil.><br/>
+Cursei alguns bootcamps pela Digital Innovation One e partcipei da C&A Fashion Devs, pela Gama Academy, formação para Dev FullStack Júnior (.NET | C#). <br/>
+Atualmente atuo como Analista de Software Junior na C&A Modas- Brasil.<br/><br/>
 <hr/>
                         <p align="center"><strong>Hards Skills</strong></p> 
                         <hr/>
